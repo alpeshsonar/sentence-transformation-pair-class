@@ -1,0 +1,9 @@
+# Required dependencies
+torch
+transformers
+sentence-transformers
+scikit-learn
+numpy
+pandas
+tqdm
+matplotlib
